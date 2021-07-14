@@ -20,5 +20,7 @@ Your choice of a presentation or blogpost. (10 marks)
 Here are examples of my submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like:
 
 Report: https://github.com/kushadhvaryu/Coursera_Capstone/blob/main/Week%20-%204/Finding%20a%20Better%20Place%20in%20Scarborough.pdf/
+
 Notebook: https://github.com/kushadhvaryu/Coursera_Capstone/blob/main/Week%20-%204/Capstone%20Project%20%E2%80%93%20The%20Battle%20of%20Neighborhoods.ipynb
+
 Blogpost: https://www.linkedin.com/pulse/finding-better-place-scarborough-toronto-kush-adhvaryu
